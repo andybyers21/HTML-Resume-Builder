@@ -1,5 +1,24 @@
 # Bullet Points
 
+Tel: (+44) 07960 088 671 Online Portfolio: ajb.app
+eMail: andy@ajb.app GitHub: github.com/andybyers21
+
+---
+
+## Education
+
+2010-2014 (expected)
+: **PhD, Computer Science**; Awesome University (MyTown)
+
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
+
+2007-2010
+: **BSc, Computer Science and Electrical Engineering**; University of
+HomeTown (HomeTown)
+
+    *Minor: Awesomeology*
+
 ---
 
 ## Management
