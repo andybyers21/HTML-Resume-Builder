@@ -15,16 +15,11 @@
 
 ## Technical Experience
 
-- Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
 ### FREELANCE DEVELOPER: Jan 2020 - Present
 
 Delivering tools such as static websites for local business, Django platforms with SQL databases, web scrapers, Python automation tools and basic data engineering using Pandas and Jupyter Notebook.
 
 Delivered an internet monitor thingy
-
-I am a maintainer of the open source Dracula organisation, developing dark themes for software developers. I have deployed a personal knowledge management website (notes.ajb.app). Overcoming the challenge of how to link connected notes, organise information associatively and weed out segmentation. (The site works on top of a local folder of plain text Markdown files). I try to have a product mindset in everything I design and understand creating value, not features.
 
 Stuff about getting clients and stuff
 
@@ -41,6 +36,8 @@ list can be used to have named items.
     * Second item.
 
 Open Source
+
+: I am a maintainer of the open source Dracula organisation, developing dark themes for software developers. I have deployed a personal knowledge management website (notes.ajb.app). Overcoming the challenge of how to link connected notes, organise information associatively and weed out segmentation. (The site works on top of a local folder of plain text Markdown files). I try to have a product mindset in everything I design and understand creating value, not features.
 
 : List open source contributions here, perhaps placing emphasis on
 the project names, for example the **Linux Kernel**, where you

@@ -64,6 +64,7 @@ li, ul {
 
 blockquote {
     text-align: center;
+    color: #1a1a1a;
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
