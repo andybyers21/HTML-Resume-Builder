@@ -2,10 +2,7 @@
 
 ---
 
-> [andy@ajb.app](mailto:andy@ajb.app) \
-> (+44) 07960 088 671 \
-> Personal Website: [ajb.app](https://ajb.app) \
-> GitHub: [github.com/andybyers21](https://github.com/andybyers21) \
+> [andy@ajb.app](mailto:andy@ajb.app) • (+44) 07960 088 671 • [Personal Website](https://ajb.app) • [GitHub](https://github.com/andybyers21)
 
 ---
 
@@ -124,6 +121,8 @@ Consulting positions in oil and gas with companies such as Maersk, Shell and Cen
 - Leading teams of 100+ offshore employees and subcontractors across 8 Shell installations.
 - Leading a major safety turnaround for Shell’s offshore maintenance operations. 0 lost time incidents in 12 months.
 - Increasing efficiency and productivity, through empowerment and not micro-management.
+
+---
 
 ## Extra Section, Call it Whatever You Want
 
