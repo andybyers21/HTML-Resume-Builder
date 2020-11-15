@@ -17,7 +17,7 @@
 
 - Delivering tools such as static websites for local business in **HTML**, **CSS** & **Bootstrap**. Building blogging platforms in **Django**, HTML Sign-up forms with client-side form validation.
 - **Python** automation tools and basic data engineering using **Pandas** and **Jupyter Notebook** to process restaurant timesheets to produce wage reports and to monitor internet connections & dropouts.
-- I have built a number of tools to test my skills such as a **JavaScript** bug tracker to demonstrate **CRUD** application in the browser and basic web scraping. Text editors in JS and Python (Tkinter)
+- I have built a number of tools to test my skills such as a **JavaScript** bug tracker to demonstrate **CRUD** application in the browser and basic web scraping. Text editors in JS and Python (Tkinter).
 - Linux basic sysadmin tasks.
 - Comfortable in and a preference for working in the command line.
 
@@ -27,29 +27,37 @@ I have not been married to one technology and choose the right tool for the job.
 
 - I am a maintainer for the open source Dracula organisation, developing dark themes for software developers. Working specifically in the Obsidian branch.
 - I have deployed a personal knowledge management website [notes.ajb.app](https://notes.ajb.app). Overcoming the challenge of how to link connected notes, organise information associatively and weed out segmentation. The site works on top of a local folder of plain text Markdown files. Deployed with **Jekyll** & **Netlify**.
-- I regularly contribute to digital knowledge platforms such as (digital gardners and the other omne)
+- I regularly contribute to digital knowledge platforms such as [digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) & [Second-Brain](https://github.com/KasperZutterman/Second-Brain).
 
 ---
 
-## Experience
-
-### GENERAL MANAGER: Venturas Exotics & Aquatics, April 2017 - May 2019
-
-Responsible for the management and sale of a wholesale business. Developing entrepreneurial skills and a comprehensive knowledge of the marketplace. Development of business plans and financial forecasts in order to secure funding. Overseeing development of the company web presence. Mentoring junior staff members. Working closely with local authorities to ensure licensing conditions are met. Management of local accounts, procurement, supplier relationships, negotiations and stock control.
-
-Managing social and web presence
+## Work Experience
 
 ### GENERAL MANAGER: Stella’s Voice UK, May 2019 – Aug 2020:
 
-Responsible for management of a team of 15 to assist in the day to day running of the warehouse. A driving role in securing contracts with local councils increasing turnover by 30% (7% net). Overseeing operations, business planning, stock control and supply chain management. Working towards strict KPI’s and budgets. Conducting employee inductions and training and daily/ weekly team briefings.
+- Responsible for a team of 15 to assist in the day to day running of the warehouse and retail operations.
+- A driving role in securing contracts with local councils increasing turnover by 30% (7% net).
+- Overseeing operations, business planning, stock control and supply chain management.
+- Conducting employee inductions and training and daily/ weekly team briefings.
+- Working towards strict KPI’s and budgets.
+- Input and decision making on the design and architecture of the updated website.
 
-Input and decision making on the website - Design and architect the website
+### GENERAL MANAGER: Venturas Exotics & Aquatics, April 2017 - May 2019
+
+- Responsible for the management and sale of a wholesale business.
+- Developing entrepreneurial skills and a comprehensive knowledge of the marketplace.
+- Development of business plans and financial forecasts in order to secure funding.
+- Overseeing development of the company web presence.
+- Mentoring junior staff members.
+- Working closely with local authorities to ensure licensing conditions are met.
+- Management of local accounts, procurement, supplier relationships, negotiations and stock control.
 
 ### CONSULTANT: Strategic Corrosion Management, March 2010 - Feb 2011, June 2013 - July 2014
 
-Working with and supporting teams of software developers
+- Consulting positions in oil and gas with companies such as Maersk, Shell and Centrica.
+- Working with and supporting teams of software developers
 
-Consulting positions in oil and gas with companies such as Maersk, Shell and Centrica. Providing third-party R&D support in the development and deployment of RISCm, a software project using Microsoft SQL databases and an in-house developed GUI to model corrosion threats. Users input corrosion levels to dynamically analyse risk factors and generate an on-going corrosion management and maintenance programme in real time, monitored and managed through a cloud-based software package which recommends the most efficient workscope execution strategy.
+Providing third-party R&D support in the development and deployment of RISCm, a software project using Microsoft SQL databases and an in-house developed GUI to model corrosion threats. Users input corrosion levels to dynamically analyse risk factors and generate an on-going corrosion management and maintenance programme in real time, monitored and managed through a cloud-based software package which recommends the most efficient workscope execution strategy.
 
 ### COMBINED UK OIL & GAS INDUSTRY EXPERIENCE: 2000 - 2017
 
