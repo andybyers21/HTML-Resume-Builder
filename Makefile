@@ -1,21 +1,9 @@
 OUT_DIR=output
-IN_DIR=markdown
+IN_DIR=input
 STYLES_DIR=styles
 STYLE=chmduquesne
 
 all: html
-
-# NOTE: add pdf to `all:` to init this code
-# pdf: init
-# 	for f in $(IN_DIR)/*.md; do \
-# 		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
-# 		echo $$FILE_NAME.pdf; \
-# 		pandoc --standalone --template $(STYLES_DIR)/$(STYLE).tex \
-# 			--from markdown --to context \
-# 			--variable papersize=A4 \
-# 			--output $(OUT_DIR)/$$FILE_NAME.tex $$f > /dev/null; \
-# 		mtxrun --path=$(OUT_DIR) --result=$$FILE_NAME.pdf --script context $$FILE_NAME.tex > $(OUT_DIR)/context_$$FILE_NAME.log 2>&1; \
-# 	done
 
 html: init
 	for f in $(IN_DIR)/*.md; do \
@@ -34,14 +22,6 @@ html: init
 # 		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
 # 		echo $$FILE_NAME.docx; \
 # 		pandoc --standalone $$SMART $$f --output $(OUT_DIR)/$$FILE_NAME.docx; \
-# 	done
-
-# NOTE: add rtf to `all:` to init this code
-# rtf: init
-# 	for f in $(IN_DIR)/*.md; do \
-# 		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
-# 		echo $$FILE_NAME.rtf; \
-# 		pandoc --standalone $$SMART $$f --output $(OUT_DIR)/$$FILE_NAME.rtf; \
 # 	done
 
 init: dir version
