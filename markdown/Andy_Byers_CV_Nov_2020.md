@@ -6,10 +6,8 @@
 
 ---
 
-> I’m a developer with an understanding of business logic, user requirements and a background in project management (APM qualified). Currently freelancing in the software development space. Proponent of open source software and open source thinking. With a special interest in UI design and knowledge management.
-> \
-> \
-> A background of project management and leadership positions within the oil and gas offshore maintenance sector. Leading teams of 100+ over multiple installations & developing OPITO training standards. I have also successfully run a wholly owned retail operation.
+> I’m a developer with an understanding of business logic, user requirements and a background in project management (**APM qualified**). Currently freelancing in the software development space. Proponent of open source software and open source thinking. With a special interest in UI design and knowledge management.\
+> A background of leadership positions within the oil and gas offshore maintenance sector. Leading teams of 100+ over multiple installations and developing OPITO training standards. I have also successfully run a wholly owned retail operation.
 
 ---
 
@@ -17,27 +15,19 @@
 
 ### FREELANCE DEVELOPER: Jan 2020 - Present
 
-Delivering tools such as static websites for local business, Django platforms with SQL databases, web scrapers, Python automation tools and basic data engineering using Pandas and Jupyter Notebook.
+- Delivering tools such as static websites for local business in **HTML**, **CSS** & **Bootstrap**. Building blogging platforms in **Django**, HTML Sign-up forms with client-side form validation.
+- **Python** automation tools and basic data engineering using **Pandas** and **Jupyter Notebook** to process restaurant timesheets to produce wage reports and to monitor internet connections & dropouts.
+- I have built a number of tools to test my skills such as a **JavaScript** bug tracker to demonstrate **CRUD** application in the browser and basic web scraping. Text editors in JS and Python (Tkinter)
+- Linux basic sysadmin tasks.
+- Comfortable in and a preference for working in the command line.
 
-Delivered an internet monitor thingy
-
-Stuff about getting clients and stuff
-
-Using python and Pandas to process restaurant timesheets.
-
-In addition I have built a number of web components to test my skills such as a blogging platform built in Django and a JavaScript bug tracker to demonstrate CRUD application in the browser. An HTML sign-up form to demonstrate client-side form validation. Linux basic sysadmin tasks. I have not been married to one technology and choose the right tool for the job. Along the way I have used tools and techniques such as: Object Oriented Programming. Pyenv and PIP to manage virtual environments and dependencies. Test Driven Development. CSS and Bootstrap. Jekyll to manage static web hosting. Linux and MacOS operating systems. Git and GitHub for version control. Project Management skills to manage workflows and time management. I am currently working towards delivering a project in C/C++ to further my understanding on the language and system operations.
+I have not been married to one technology and choose the right tool for the job. Along the way I have used tools and techniques such as **Object Oriented Programming**, **Test Driven Development**, **Linux** and **MacOS**. **Git** and **GitHub** for version control. _I try to have a product mindset in everything I design and understand creating value, not features._
 
 ### Open Source Projects
 
-I am a maintainer of the open source Dracula organisation, developing dark themes for software developers.
-
-I have deployed a personal knowledge management website (notes.ajb.app). Overcoming the challenge of how to link connected notes, organise information associatively and weed out segmentation. (The site works on top of a local folder of plain text Markdown files). I try to have a product mindset in everything I design and understand creating value, not features.
-
-Something about note platforms here. (digital gardners)
-
-List open source contributions here, perhaps placing emphasis on the project names, for example the **Linux Kernel**, where you implemented multithreading over a long weekend, or **node.js** (with [link](http://nodejs.org)) which was actually totally your idea...
-
-[ref]: https://github.com/githubuser/superlongprojectname
+- I am a maintainer for the open source Dracula organisation, developing dark themes for software developers. Working specifically in the Obsidian branch.
+- I have deployed a personal knowledge management website [notes.ajb.app](https://notes.ajb.app). Overcoming the challenge of how to link connected notes, organise information associatively and weed out segmentation. The site works on top of a local folder of plain text Markdown files. Deployed with **Jekyll** & **Netlify**.
+- I regularly contribute to digital knowledge platforms such as (digital gardners and the other omne)
 
 ---
 
@@ -56,6 +46,8 @@ Responsible for management of a team of 15 to assist in the day to day running o
 Input and decision making on the website - Design and architect the website
 
 ### CONSULTANT: Strategic Corrosion Management, March 2010 - Feb 2011, June 2013 - July 2014
+
+Working with and supporting teams of software developers
 
 Consulting positions in oil and gas with companies such as Maersk, Shell and Centrica. Providing third-party R&D support in the development and deployment of RISCm, a software project using Microsoft SQL databases and an in-house developed GUI to model corrosion threats. Users input corrosion levels to dynamically analyse risk factors and generate an on-going corrosion management and maintenance programme in real time, monitored and managed through a cloud-based software package which recommends the most efficient workscope execution strategy.
 
