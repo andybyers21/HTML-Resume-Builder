@@ -16,13 +16,13 @@ html: init
 			--metadata pagetitle=$$FILE_NAME;\
 	done
 
-# NOTE: add docx to `all:` to init this code
-# docx: init
-# 	for f in $(IN_DIR)/*.md; do \
-# 		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
-# 		echo $$FILE_NAME.docx; \
-# 		pandoc --standalone $$SMART $$f --output $(OUT_DIR)/$$FILE_NAME.docx; \
-# 	done
+# NOTE: add docx to `all:` to init this code in main
+docx: init
+	for f in $(IN_DIR)/*.md; do \
+		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
+		echo $$FILE_NAME.docx; \
+		pandoc --standalone $$SMART $$f --output $(OUT_DIR)/$$FILE_NAME.docx; \
+	done
 
 init: dir version
 
