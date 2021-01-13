@@ -1,13 +1,16 @@
 # Andy Byers
 
+## Full Stack Web Developer
+
+> **Python / JavaScript / HTML / CSS**
+
 ---
 
 > [andy@ajb.app](mailto:andy@ajb.app) • (+44) 07960 088 671 • [Online Portfolio](https://ajb.app) • [GitHub](https://github.com/andybyers21)
 
 ---
 
-> I’m a developer with an understanding of business logic, user requirements and a background in project management (**APM qualified**). Currently freelancing in the software development space. Proponent of open source software and open source thinking. With a special interest in UI design and knowledge management.\
-> A background of leadership positions within the oil and gas offshore maintenance sector. Leading teams of 100+ over multiple installations and developing OPITO training standards. I have also successfully run a wholly owned retail operation.
+> I’m a developer with an understanding of business logic, user requirements and a background in project management (**APM qualified**). Currently freelancing in the software development space. Proponent of open source software and open source thinking.
 
 ---
 
@@ -15,9 +18,10 @@
 
 ### FREELANCE DEVELOPER: Jan 2020 - Present
 
-- Delivering tools such as static websites for local business in **HTML**, **CSS** & **Bootstrap**. Building blogging platforms in **Django**, HTML Sign-up forms with client-side form validation.
 - **Python** automation tools and basic data engineering using **Pandas** and **Jupyter Notebook** to process restaurant timesheets to produce wage reports and to monitor internet connections & dropouts.
-- I have built a number of tools to test my skills such as a **JavaScript** bug tracker to demonstrate **CRUD** application in the browser and basic web scraping. Text editors in JS and Python (Tkinter).
+- Delivering tools such as static websites for local business in **HTML**, **CSS** & **Bootstrap**. Building blogging platforms in **Django**, HTML Sign-up forms with client-side form validation.
+- I have built a number of tools such as a **JavaScript** bug tracker \(**CRUD** application in the browser) and basic web scraping. Text editors in JS and Python (Tkinter).
+- Working with **MySQL** and **MongoDB** databases.
 - Linux basic sysadmin tasks.
 - Comfortable in and a preference for working in the command line.
 
@@ -25,8 +29,9 @@ I have not been married to one technology and choose the right tool for the job.
 
 ### Open Source Projects
 
-- I am a maintainer for the open source Dracula organisation, developing dark themes for software developers. Working specifically in the Obsidian branch.
+- I am a maintainer for the open source [Dracula](https://github.com/dracula) organisation, developing dark themes for software developers. Working specifically in the Obsidian branch.
 - I have deployed a personal knowledge management website [notes.ajb.app](https://notes.ajb.app). Overcoming the challenge of how to link connected notes, organise information associatively and weed out segmentation. The site works on top of a local folder of plain text Markdown files. Deployed with **Jekyll** & **Netlify**.
+- Developed an HTML CV builder using **Pandoc** and basic **Lua**
 - I regularly contribute to digital knowledge platforms such as [digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) & [Second-Brain](https://github.com/KasperZutterman/Second-Brain).
 
 ---
@@ -35,12 +40,12 @@ I have not been married to one technology and choose the right tool for the job.
 
 ### GENERAL MANAGER: Stella’s Voice UK, May 2019 – Aug 2020:
 
-- Responsible for a team of 15 to assist in the day to day running of the warehouse and retail operations.
+- Responsible for a team of 15 in the day to day running of the warehouse and retail operations.
+- Overseeing web development operations such as design, decision making and architecture of the updated website and build of the new website and online store.
 - A driving role in securing contracts with local councils increasing turnover by 30% (7% net).
 - Overseeing operations, business planning, stock control and supply chain management.
 - Conducting employee inductions and training and daily/ weekly team briefings.
 - Working towards strict KPI’s and budgets.
-- Input and decision making on the design and architecture of the updated website.
 
 ### GENERAL MANAGER: Venturas Exotics & Aquatics, April 2017 - May 2019
 
@@ -50,7 +55,7 @@ I have not been married to one technology and choose the right tool for the job.
 - Overseeing development of the company web presence.
 - Mentoring junior staff members.
 - Working closely with local authorities to ensure licensing conditions are met.
-- Management of local accounts, procurement, supplier relationships, negotiations and stock control.
+- Management of local accounts, procurement, supplier relationships and stock control.
 
 ### CONSULTANT: Strategic Corrosion Management, March 2010 - Feb 2011, June 2013 - July 2014
 
@@ -67,5 +72,5 @@ Providing third-party R&D support in the development and deployment of RISCm, a 
 - Development and testing of a new coating system and application processes resulting in a one third saving in offshore man-hours.
 - Implementing the RISCm system of planning and prioritisation at the work-front saving 20% of the budgeted hours.
 - Leading teams of 100+ offshore employees and subcontractors across 8 Shell installations.
-- Leading a major safety turnaround for Shell’s offshore maintenance operations. 0 lost time incidents in 12 months.
+- Leading a major safety turnaround for Shell. 0 lost time incidents in 12 months.
 - Increasing efficiency and productivity, through empowerment and not micro-management.

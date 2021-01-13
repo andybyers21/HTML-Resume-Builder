@@ -20,17 +20,18 @@ h2 {
     font-size: 30px;
     color: #2c4964;
     margin-top: 1em;
+    text-align: center;
 }
 
 /* This is the bar before each category */
-h2:before {
+/* h2:before {
     content: "";
     display: inline-block;
     margin-right:1%;
     width: 16%;
     height: 10px;
     background-color: #306A7A;
-}
+} */
 
 h3 {
     font-size: 18px;
