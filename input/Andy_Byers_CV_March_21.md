@@ -23,17 +23,17 @@
 Currently freelancing in the web development space producing tools and websites
 for SME's.
 
-- Process timesheets to produce wage reports using **Python** automation tools
-  and basic data engineering techniques using **Pandas** and **Jupyter Notebook**
+- Process timesheets to produce wage reports using Python automation tools
+  and basic data engineering techniques using Pandas and Jupyter Notebook
 - Monitor corporate internet connection and report dropouts.
-- Delivering static websites for local business using **HTML**, **CSS**,
-  **Hugo**, **Jekyll** and **Bootstrap**.
-- A **JavaScript** bug tracker \(**CRUD** application in the browser).
-- Working with **MySQL** and **MongoDB** databases.
+- Delivering static websites for local business using HTML, CSS,
+  Hugo, Jekyll and Bootstrap.
+- A JavaScript bug tracker \(CRUD application in the browser).
+- Working with MySQL and MongoDB databases.
 - Linux basic sysadmin tasks.
 - Comfortable in and a preference for working in the command line.
-- **Git** and **GitHub** for version control.
-- Deploying projects to the web using the **JAMstack**, **Netlify**, **Heroku**
+- Git and GitHub for version control.
+- Deploying projects to the web using the JAMstack, Netlify, Heroku
   and GitHub Pages.
 
 ### WALL OF TEXT: February 2021 - Present
@@ -41,15 +41,15 @@ for SME's.
 I am currently working on an accessibility app for people working on study and
 exams who suffer from ADHD and have issues focusing on large blocks of text for
 prolonged periods of time. The app converts the text into succinct
-readable lines using **Natural Language Processing.**
+readable lines using Natural Language Processing.
 
-- Backend Stack: **Python**, **Flask**, **nltk**, **regex**
-- Frontend Stack: **JavaScript**, **Bootstrap**, **HTML**, **CSS**.
+- Backend Stack: Python, Flask, nltk, regex
+- Frontend Stack: JavaScript, Bootstrap, HTML, CSS.
 - Developing test modules to identify bugs and edge cases.
 - Project Managing the product throughout it's life cycle creating detailed
   roadmaps and product analysis.
 - Producing comprehensive user and developer documentation, deployed to a
-  standalone **Hugo** site.
+  standalone Hugo site.
 
 ### OPEN SOURCE PROJECTS
 
@@ -60,13 +60,13 @@ readable lines using **Natural Language Processing.**
   [notes.ajb.app](https://notes.ajb.app). Overcoming the challenge of how to
   link connected notes, organise information associatively and weed out
   segmentation. The site works on top of a local folder of plain text Markdown
-  files. Deployed with **Jekyll** & **Netlify**.
-- A News Aggregator **RESTful Web service**, built and deployed using **Go**’s standard library.
+  files. Deployed with Jekyll & Netlify.
+- A News Aggregator RESTful Web service, built and deployed using Go’s standard library.
 - Built several text editors in Python (Tkinter), C, and Javascript (web
   based) to compare implementations.
-- Basic web scraping, **Numpy**, **Pandas**
-- Building blogging platforms in **Django**
-- HTML Sign-up forms with client-side **form validation**.
+- Basic web scraping, Numpy, Pandas
+- Building blogging platforms in Django
+- HTML Sign-up forms with client-side form validation.
 
 ---
 
