@@ -34,6 +34,7 @@ management - developing documentation site and writing documentation**
 - Git and GitHub for version control.
 - Deploying projects to the web using the JAMstack, Netlify, Heroku
   and GitHub Pages.
+- HTML Sign-up forms with client-side form validation.
 
 ### WALL OF TEXT: February 2021 - Present
 
@@ -65,7 +66,6 @@ readable lines using Natural Language Processing.
   based) to compare implementations.
 - Basic web scraping, Numpy, Pandas
 - Building blogging platforms in Django
-- HTML Sign-up forms with client-side form validation.
 
 ### GENERAL MANAGER: Stella’s Voice UK, May 2019 – Aug 2020:
 
